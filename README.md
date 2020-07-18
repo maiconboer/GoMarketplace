@@ -77,3 +77,7 @@ Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir par
 - **```should store products in AsyncStorage while adding, incrementing and decrementing:```** Para que esse teste passe, no seu arquivo onde contém o contexto do carrinho você deve permitir que todas as atualizações que você fizer no carrinho, sejam salvas no AsyncStorage. Por exemplo, ao adicionar um item ao carrinho, adicione-o também no AsyncStorage. Lembre de também atualizar o valor do AsyncStorage quando você incrementar ou decrementar a quantidade de um item.
 
 - **```should load products from AsyncStorage:```** Para que esse teste passe, no seu arquivo onde contém o contexto do carrinho, você deve permitir que todos os produtos que foram adicionados sejam buscados do AsyncStorage.
+
+<p align='center'>
+<img src='.github/image2.PNG' width='400' />
+</p>
