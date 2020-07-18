@@ -2,6 +2,10 @@
 
 **Desafio 08 - Bootcamp GoStack**
 
+<p align='center'>
+<img src='.github/image.PNG' width='600' />
+</p>
+
 Navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando ```yarn``` no seu terminal para instalar todas as dependências.
 
 Para startar a aplicação (aplicação em React-Native):
